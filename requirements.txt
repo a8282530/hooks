@@ -1,6 +1,5 @@
 flask
 gunicorn
 curl_cffi
-flask_cors
-flask_compress
-flask_tools
+flask-cors
+flask-compress
